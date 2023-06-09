@@ -1,6 +1,6 @@
 ![Build](https://github.com/brave/brave-ios/workflows/Build/badge.svg?branch=development)
 
-Brave for iOS 🦁
+Brave for iOS Roboticized and Voice controlled
 ===============
 
 Download on the [App Store](https://apps.apple.com/app/brave-web-browser/id1052879175).
